@@ -65,7 +65,7 @@ if(error) return res.status(400).send({ msg: "Not all fields have been entered."
     });
 
     ///loggingggg innnn
-    router.route('/login').post(async (req, res) => {
+    router.post('/login', async (req, res) => {
       const {error} = loginValidation(req.body);
       if(error) return res.status(400).send({ msg: "Not all fields have been entered." });
     //checking if the username is signed up 
