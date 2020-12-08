@@ -30,7 +30,7 @@ app.use('/addUser', addUserRouter);
 app.use('/posts', postRoute);
 //app.use('/login', logInRouter);
 
-var port = process.env.PORT || 1300;
+var port = process.env.PORT || 8000;
 app.listen(port, () => {
   console.log(`Server is running on port: ${port}`);
 });
