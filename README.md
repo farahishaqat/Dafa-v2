@@ -20,17 +20,13 @@ was developed by our colleages, we took it from there and implemented more featu
 1. [Contributing](#contributing)
 ​
 ## Usage
-to help people in need by other people
-the uesrs are two types 1: people who want to give away items
-2: people who need the items
-	> you need to sighn in to see our home page.
-	to give somthing away you need to 
-	:-take a picture of the object
-	:-uploud it choose the options and write descrption
-	:-when someone request the object you aploued you will get notify
-	:-you can send them your number for pick up or contact us to help you deliver  it
-	:-if you wish to take one object, simply click on it and we will provide you with 
-	contact information.
+ 1.navigate to : https://dafa-v2.herokuapp.com
+ 2.Sign Up
+ 3.Sign In
+ 4.Donate Items by filling the donation form and uploading a picture.
+ 5.you can view donated items on donated items page.
+ 6.you can edit/delete an item you donated.
+ 
     
 ​
 ## Requirements
