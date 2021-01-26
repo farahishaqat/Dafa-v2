@@ -21,16 +21,18 @@ This website was developed by (Fatima, Rahaf, Nour , Dialah) and our team (Farah
 1. [Contributing](#contributing)
 ​
 ## Usage
- 1.navigate to : https://dafa-v2.herokuapp.com
- 2.Sign Up
- 3.Sign In
- 4.Donate Items by filling the donation form and uploading a picture.
- 5.you can view donated items on donated items page.
- 6.you can edit/delete an item you donated.
+​
+- navigate to : https://dafa-v2.herokuapp.com
+- Sign Up
+- Sign In
+- Donate Items by filling the donation form and uploading a picture.
+- you can view donated items on donated items page.
+- you can edit/delete an item you donated.
+​
  
     
 ​
-## Requirements
+## Technologies Used
 ​
 - Node exepress
 - react 
@@ -39,15 +41,3 @@ This website was developed by (Fatima, Rahaf, Nour , Dialah) and our team (Farah
 - bcrypt - Token 
 - Heroku
 ​
-## Development
-​
-​
-### Installing Dependencies
-​
-From within the root directory:
-​
-```sh
-sudo npm install -g bower
-npm install
-bower install
-```
