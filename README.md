@@ -10,24 +10,15 @@ This website was developed by (Fatima, Rahaf, Nour , Dialah) and our team (Farah
   - __Scrum Master__: Sahar 
   - __Development Team Members__: Farah , Eman , Rana.
 ​
-## Table of Contents
-​
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
-    1. [Installing Dependencies](#installing-dependencies)
-    1. [Tasks](#tasks)
-1. [Team](#team)
-1. [Contributing](#contributing)
-​
+
 ## Usage
 ​
-- navigate to : https://dafa-v2.herokuapp.com
+- Navigate to : https://dafa-v2.herokuapp.com
 - Sign Up
 - Sign In
 - Donate Items by filling the donation form and uploading a picture.
-- you can view donated items on donated items page.
-- you can edit/delete an item you donated.
+- User can view donated items on donated items page.
+- User can edit/delete an item you donated.
 ​
  
     
