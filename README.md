@@ -1,12 +1,13 @@
 # Dafa
 ​
-> a website that allows people to upload images and description of winter supplies, and allows people in need to go on and choose what they need. to later be delivered to them.
+> This Website main purpose is to provide warm clothes for the people in need, and thats where the name came from "DAFA" means Warm in Arabic, in this website users can donate unwanted winter clothes (Jackets, Scarfs, gloves ..etc) by filling a donation form and uploading a picture for the item.
+
+was developed by our colleages, we took it from there and implemented more features on it in a week. 
 ​
 ## Team
-​
-  - __Product Owner__: Fatima 
-  - __Scrum Master__: Rahaf 
-  - __Development Team Members__: Nour , Dialah , fatima , rahaf
+​ 
+  - __Scrum Master__: Sahar 
+  - __Development Team Members__: Farah , Eman , Rana.
 ​
 ## Table of Contents
 ​
